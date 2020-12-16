@@ -1,3 +1,5 @@
+[next.js기반 로그인/회원가입 템플릿, 사이드바는 옵션]
+
 1. start
 
 npm run dev
